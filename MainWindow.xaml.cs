@@ -19,6 +19,7 @@ namespace WpfPesho
         public MainWindow()
         {
             InitializeComponent();
+            int a =  5;
         }
     }
 }
