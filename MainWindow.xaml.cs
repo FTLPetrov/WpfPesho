@@ -19,6 +19,7 @@ namespace WpfPesho
         public MainWindow()
         {
             InitializeComponent();
+            string buffNaGaren = "troll";
         }
     }
 }
